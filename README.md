@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yael</h1>
-<p align="center">
+<!-- <p align="center">
   a passionate software developer who loves technology and creating innovative solutions. I enjoy learning new technologies and developing projects that make a positive impact. I have experience in both backend and frontend development, working with technologies like JavaScript, TypeScript, React, Node.js, C#, C/C++ , Python , .NET, SQL, and more.
 
 If you're looking for a dedicated and creative developer to join your team – I'm here! 😊
@@ -43,3 +43,4 @@ If you're looking for a dedicated and creative developer to join your team – I
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
 </p>
+ -->
